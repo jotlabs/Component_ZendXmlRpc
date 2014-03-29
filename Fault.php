@@ -10,7 +10,7 @@
 namespace Zend\XmlRpc;
 
 use SimpleXMLElement;
-use Zend\Xml\Security as XmlSecurity;
+use ZendXml\Security as XmlSecurity;
 
 /**
  * XMLRPC Faults

@@ -9,7 +9,7 @@
 
 namespace Zend\XmlRpc;
 
-use Zend\Xml\Security as XmlSecurity;
+use ZendXml\Security as XmlSecurity;
 
 /**
  * XmlRpc Response
